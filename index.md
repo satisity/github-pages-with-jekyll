@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Cat's Space
 
-I'm glad you are here. I plan to talk about ...
+Hi, I'm Cat. Welcome to my website!
